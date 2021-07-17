@@ -31,11 +31,6 @@ Il faut donc entre 3 et 4 heures pour éliminer deux verres d'alcool.
 
 [Source](https://www.permis-de-exploitation.com/785-l-500mg-alcool.html)
 
-[Effects and Action Mechanisms of Korean Pear on Alcohol Detoxification](https://www.permis-de-exploitation.com/785-l-500mg-alcool.html)
-
-[Source](/pdf/effects and action mechanisms of korean pear on alcohol detoxification.pdf)
-
-
 # Poire Nashi
 
 L'argument de vente principal est la présence de poire Nashi dans la composition.\
@@ -48,10 +43,10 @@ L'étude du CISRO est en fait une revue systématique de 2015 qui se base notamm
 Le CISRO étant financé en partie par le gouvernement australien et le lobby de l'industrie horticole australien.
 
 2012 : \
-[Effects and Action Mechanisms of Korean Pear on Alcohol Detoxification](/pdf/effects and action mechanisms of korean pear on alcohol detoxification.pdf)
+[Effects and Action Mechanisms of Korean Pear on Alcohol Detoxification](https://github.com/Krokodyl/alcoool/blob/main/pdf/effects%20and%20action%20mechanisms%20of%20korean%20pear%20on%20alcohol%20detoxification.pdf)
 
 2015 : \
-[Review on the health benefits and nutritional](/pdf/review on the health benefits and nutritional.pdf)
+[Review on the health benefits and nutritional](https://github.com/Krokodyl/alcoool/blob/main/pdf/review%20on%20the%20health%20benefits%20and%20nutritional.pdf)
 
 - Aucune des deux études n'avance le chiffre de 70%.
 - L'étude de 2012 indique une diminution de 15% du taux d'alcool chez des souris testées.
