@@ -43,13 +43,15 @@ S'appuyant sur "les études scientifiques les plus avancées", citant notamment 
 L'étude du CISRO est en fait une revue systématique de 2015 qui se base notamment sur une étude coréenne de 2012.\
 Le CISRO étant financé en partie par le gouvernement australien et le lobby de l'industrie horticole australien.
 
-2012 : [Effects and Action Mechanisms of Korean Pear on Alcohol Detoxification](/pdf/effects and action mechanisms of korean pear on alcohol detoxification.pdf)
+2012 : \
+[Effects and Action Mechanisms of Korean Pear on Alcohol Detoxification](/pdf/effects and action mechanisms of korean pear on alcohol detoxification.pdf)
 
-2015 : [Review on the health benefits and nutritional](/pdf/review on the health benefits and nutritional.pdf)
+2015 : \
+[Review on the health benefits and nutritional](/pdf/review on the health benefits and nutritional.pdf)
 
 - Aucune des deux études n'avance le chiffre de 70%.
 - L'étude de 2012 indique une diminution de 15% du taux d'alcool chez des souris testées.
-La métabolisation de l'alcool se déroule ainsi:\
+La métabolisation de l'alcool se déroule ainsi :\
 Ethanol est transformé en Acetaldehyde (réaction catalysée par l'ADH, l'alcool déshydrogénase)\
 L'acetaldehyde est transformée en acide acétique (réaction catalysée par l'ALDH, l'aldéhyde déshydrogénase)\
 L'acide acétique est évacué par voie naturelle.
@@ -58,18 +60,18 @@ L'étude se concentre sur un point important: il y a une variation génétique, 
 Or, l'effet (aussi relatif soit-il) de la poire sur ces enzymes est plus significatif sur l'enzyme ALDH2.\
 Malgré tout le bullshit marketing employé, difficile de mettre en avant un avantage touchant uniquement les personnes d'origine asiatique.
 
-L'étude de 2012 n'a été faite que in vitro et in vivo (des souris) et reconnait dans sa conclusion:
-*"There is a potential limitation that should be\
- considered when interpreting these results. Because it\
- was not possible simultaneously to analyse levels of\
- alcohol and acetaldehyde in the blood samples due to\
- 1000-fold different minimum detection levels between\
- acetaldehyde and alcohol, much larger volumes of\
- samples for acetaldehyde analyses were needed than\
- for alcohol analyses. Multiple samples were used to\
- analyse alcohol, however, acetaldehyde analyses were\
- performed at the peak level and did not provide whole\
- PK parameters for acetaldehyde to match with the\
+L'étude de 2012 n'a été faite que in vitro et in vivo (des souris) et reconnait dans sa conclusion :\
+*"There is a potential limitation that should be
+ considered when interpreting these results. Because it
+ was not possible simultaneously to analyse levels of
+ alcohol and acetaldehyde in the blood samples due to
+ 1000-fold different minimum detection levels between
+ acetaldehyde and alcohol, much larger volumes of
+ samples for acetaldehyde analyses were needed than
+ for alcohol analyses. Multiple samples were used to
+ analyse alcohol, however, acetaldehyde analyses were
+ performed at the peak level and did not provide whole
+ PK parameters for acetaldehyde to match with the
  alcohol-analysed spots."*
 
 L'étude du CISRO fait référence à une autre étude chez des hommes (7 testés avec placebo, 7 testés avec la poire) et leur ressenti subjectif au lendemain mais ne cite aucune source.
