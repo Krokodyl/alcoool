@@ -31,6 +31,10 @@ Il faut donc entre 3 et 4 heures pour éliminer deux verres d'alcool.
 
 [Source](https://www.permis-de-exploitation.com/785-l-500mg-alcool.html)
 
+[Effects and Action Mechanisms of Korean Pear on Alcohol Detoxification](https://www.permis-de-exploitation.com/785-l-500mg-alcool.html)
+
+[Source](/pdf/effects and action mechanisms of korean pear on alcohol detoxification.pdf)
+
 
 # Poire Nashi
 
