@@ -43,9 +43,9 @@ S'appuyant sur "les études scientifiques les plus avancées", citant notamment 
 L'étude du CISRO est en fait une revue systématique de 2015 qui se base notamment sur une étude coréenne de 2012.
 Le CISRO étant financé en partie par le gouvernement australien et le lobby de l'industrie horticole australien.
 
-2012 : [Effects and Action Mechanisms of Korean Pear on Alcohol Detoxification](/pdf/effects and action mechanisms of korean pear on alcohol detoxification.pdf)
+2012 : ![Effects and Action Mechanisms of Korean Pear on Alcohol Detoxification](/pdf/effects and action mechanisms of korean pear on alcohol detoxification.pdf)
 
-2015 : [Review on the health benefits and nutritional](/pdf/review on the health benefits and nutritional.pdf)
+2015 : ![Review on the health benefits and nutritional](/pdf/review on the health benefits and nutritional.pdf)
 
 - Aucune des deux études n'avance le chiffre de 70%.
 - L'étude de 2012 indique une diminution de 15% du taux d'alcool chez des souris testées.
