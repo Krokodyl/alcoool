@@ -48,8 +48,9 @@ Le CISRO étant financé en partie par le gouvernement australien et le lobby de
 2015 : \
 [Review on the health benefits and nutritional](https://github.com/Krokodyl/alcoool/blob/main/pdf/review%20on%20the%20health%20benefits%20and%20nutritional.pdf)
 
-- Aucune des deux études n'avance le chiffre de 70%.
-- L'étude de 2012 indique une diminution de 15% du taux d'alcool chez des souris testées.
+- Aucune des deux études n'avance le chiffre de 70%.\
+- L'étude de 2012 indique une diminution de 15% du taux d'alcool chez des souris testées.\
+
 La métabolisation de l'alcool se déroule ainsi :\
 Ethanol est transformé en Acetaldehyde (réaction catalysée par l'ADH, l'alcool déshydrogénase)\
 L'acetaldehyde est transformée en acide acétique (réaction catalysée par l'ALDH, l'aldéhyde déshydrogénase)\
@@ -79,30 +80,30 @@ L'étude du CISRO conclut en deux fois:
 
 ![image 005](/png/conclu1.png)
 
-Au vu des preuves limitées, un essai randomisé controlé réduit sur une population coréenne, la preuve des effets de la poire sur les symptomes de gueule de bois est actuellement qualifiée de faible.
+Traduction : *Au vu des preuves limitées, un essai randomisé controlé réduit sur une population coréenne, la preuve des effets de la poire sur les symptomes de gueule de bois est actuellement qualifiée de faible.*
 
 ![image 006](/png/conclu2.png)
 
-"Une recommendation générale de la comsommation de poire pour la gueule de bois ne peut être actuellement établie."
+Traduction : *"Une recommendation générale de la comsommation de poire pour la gueule de bois ne peut être actuellement établie."*
 
 # Quand ?
 
 ![image 007](/png/quand1.png)
 ![image 008](/png/quand2.png)
 
-Toutes les études, mentionnées prédécemment, indiquent clairement qu'il n'y a aucun effet à cosommer la poire après la consommation d'alcool.\
-Evidemment, plus le client boit, plus le client achète.
+Toutes les études, mentionnées prédécemment, indiquent clairement qu'il n'y a aucun effet à consommer la poire après la consommation d'alcool.\
+Mais évidemment, plus le client boit, plus le client achète donc ils se permettent de se contredire sans complexe.
 
 # Captain Planet
 
 ![image 009](/png/virtue-signaling.png)
 
-"nous préférons aider les travailleurs locaux"\
+*"nous préférons aider les travailleurs locaux"*\
 Une idée à explorer : Ne pas importer un jus de fruit de l'autre bout du monde et acheter des fruits aux agriculteurs locaux.
 
 Le verre c'est du sable, le plastique du pétrole. Merci Captain Obvious.
 
-"L’acheminement des produits est effectué par voix maritime et non aérienne. Tout simplement car c'est 47 fois moins polluant."\
+*"L’acheminement des produits est effectué par voix maritime et non aérienne. Tout simplement car c'est 47 fois moins polluant."*\
 Ou bien tout simplement parce que le fret par bateau est 4 à 6 fois moins cher.
 Autre idée à explorer pour ne pas polluer: Ne pas importer un jus de fruit de l'autre bout du monde.
 
@@ -137,6 +138,8 @@ Alcoool est uniquement "registered", c'est-à-dire inscrit, et n'a donc aucun dr
 ![image 009](/png/fda2.png)
 
 Utiliser le logo de la FDA en étant simplement inscrit est en violation de loi fédérale américaine.
+
+D'autant plus que tu vends un produit en France, l'avis de la FDA on s'en contrefout un peu.
 
 Concernant la certification HACCP
 
