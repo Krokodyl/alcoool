@@ -19,7 +19,7 @@ La boisson **Alcoool** est une boisson vendue en bouteille de 100ml aux prétend
 
 # Alcool
 
-![image 001](/png/01.png)
+> ![image 001](/png/01.png)
 
 C'est faux.
 
@@ -36,8 +36,8 @@ Il faut donc entre 3 et 4 heures pour éliminer deux verres d'alcool.
 L'argument de vente principal est la présence de poire Nashi dans la composition.\
 S'appuyant sur "les études scientifiques les plus avancées", citant notamment le CISRO (Commonwealth Scientific and Industrial Research Organisation est l'organisme gouvernemental australien pour la recherche scientifique), la poire Nashi permettrait de réduire grandement les symptomes de la geule de bois.
 
-![image 003](/png/cisro1.png)
-![image 004](/png/cisro2.png)
+> ![image 003](/png/cisro1.png)
+> ![image 004](/png/cisro2.png)
 
 L'étude du CISRO est en fait une revue systématique de 2015 qui se base notamment sur une étude coréenne de 2012.\
 Le CISRO étant financé en partie par le gouvernement australien et le lobby de l'industrie horticole australien.
@@ -78,25 +78,25 @@ L'étude du CISRO fait référence à une autre étude chez des hommes (7 testé
 
 L'étude du CISRO conclut en deux fois:
 
-![image 005](/png/conclu1.png)
+> ![image 005](/png/conclu1.png)
 
 Traduction : *Au vu des preuves limitées, un essai randomisé controlé réduit sur une population coréenne, la preuve des effets de la poire sur les symptomes de gueule de bois est actuellement qualifiée de faible.*
 
-![image 006](/png/conclu2.png)
+> ![image 006](/png/conclu2.png)
 
 Traduction : *"Une recommendation générale de la comsommation de poire pour la gueule de bois ne peut être actuellement établie."*
 
 # Quand ?
 
-![image 007](/png/quand1.png)
-![image 008](/png/quand2.png)
+> ![image 007](/png/quand1.png)
+> ![image 008](/png/quand2.png)
 
 Toutes les études, mentionnées prédécemment, indiquent clairement qu'il n'y a aucun effet à consommer la poire après la consommation d'alcool.\
 Mais évidemment, plus le client boit, plus le client achète donc ils se permettent de se contredire sans complexe.
 
 # Captain Planet
 
-![image 009](/png/virtue-signaling.png)
+> ![image 009](/png/virtue-signaling.png)
 
 *"nous préférons aider les travailleurs locaux"*\
 Une idée à explorer : Ne pas importer un jus de fruit de l'autre bout du monde et acheter des fruits aux agriculteurs locaux.
@@ -109,7 +109,7 @@ Autre idée à explorer pour ne pas polluer: Ne pas importer un jus de fruit de 
 
 # L'eau
 
-![image 009](/png/eau1.png)
+> ![image 009](/png/eau1.png)
 
 Pour vous réhydrater, ne buvez pas d'eau, buvez notre jus de fruit.\
 Qu'ils sont cons ces chameaux, boire de l'eau, quelle idiotie!
@@ -117,15 +117,15 @@ Qu'ils sont cons ces chameaux, boire de l'eau, quelle idiotie!
 # Les normes
 
 
-![image 009](/png/norme.png)
-![image 009](/png/norme2.png)
+> ![image 009](/png/norme.png)
+> ![image 009](/png/norme2.png)
 
 Comment jouer sur la méconnaissance des consomateurs avec un argument d'autorité.
 
 "enregistré à la FDA", "inscrit à la DGCCRF".\
 Félicitations, vous savez remplir un formulaire.
 
-![image 009](/png/henri.png)
+> ![image 009](/png/henri.png)
 
 "Il n'y a aucun effet secondaire car notre laboratoire est inscrit auprès de la Food & Drug Administration (FDA)."
 
@@ -134,8 +134,8 @@ Il y a trop niveau de certification: Registered, Cleared et Approved.\
 Alcoool est uniquement "registered", c'est-à-dire inscrit, et n'a donc aucun droit de revendiquer être cautionné par la FDA.
 
 
-![image 009](/png/fda1.png)
-![image 009](/png/fda2.png)
+> ![image 009](/png/fda1.png)
+> ![image 009](/png/fda2.png)
 
 Utiliser le logo de la FDA en étant simplement inscrit est en violation de loi fédérale américaine.
 
@@ -143,7 +143,7 @@ D'autant plus que tu vends un produit en France, l'avis de la FDA on s'en contre
 
 Concernant la certification HACCP
 
-![image 009](/png/haccp.png)
+> ![image 009](/png/haccp.png)
 
 Certification basée sur la bonne foi de l'entreprise = Je paye une formation de 2 jours pour coller votre logo sur mon produit.
 
